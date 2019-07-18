@@ -1,0 +1,24 @@
+{
+        "id": "1",
+        "name": "GREEN SLIME",
+        "hp": "12",
+        "skill1": "RAINBOW I (X3)  90%",
+        "skill2": "BLOCKED MANA     8%",
+		"skill3": "CASTING FAILURE  2%",
+        }
+{
+        "id": "2",
+        "name": "IMP",
+        "hp": "10",
+        "skill1": "RAINBOW I (X3)  50%",
+        "skill2": "RAINBOW II(X5)  49%",
+		"skill3": "CASTING FAILURE  1%",
+        }
+{
+        "id": "3",
+        "name": "OGRE",
+        "hp": "20",
+        "skill1": "RAINBOW I (X3)  45%",
+        "skill2": "RAINBOW II(X5)  45%",
+		"skill3": "BOWLING I (X3)  10%",
+        }
